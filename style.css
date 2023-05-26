@@ -54,3 +54,7 @@ button:hover{
     cursor: pointer;
     transform: scale(1.2);
 }
+.footer{
+    color: gold;
+    text-align: center;
+}
